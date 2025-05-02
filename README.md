@@ -1,3 +1,5 @@
+####   Templated from https://github.com/khuyentran1401
+
 [![View article](https://img.shields.io/badge/CodeCut-View_article-blue)](https://codecut.ai/how-to-structure-a-data-science-project-for-readability-and-transparency-2/) [![View on YouTube](https://img.shields.io/badge/YouTube-Watch%20on%20Youtube-red?logo=youtube)](https://youtu.be/TzvcPi3nsdw) 
 
 # Data Science Cookie Cutter
